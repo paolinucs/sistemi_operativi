@@ -10,4 +10,5 @@ Tutti i codici sono stati scritti al fine di uno studio personale per il mio esa
   - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_A.c
   - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_B.c
   - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_C.c
+  - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_D.c
 
