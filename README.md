@@ -1,6 +1,9 @@
 # Algoritmi di SO in C
 
-## Indice:
+In questa repository sono riportati tutti gli algoritmi che ho studiato per l'esame di Sistemi Operativi.
+Riporto qui sia gli algoritmi che i miei esercizi (in C) per me e per i miei colleghi universitari.
+
+## Sinconizzazione dei processi:
 - Sincronizzazione dei processi tramite segnalazione (https://github.com/paolinucs/sistemi_operativi/blob/main/segnalazione.c)
   #### Esercizi:
   - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_A.c
