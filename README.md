@@ -5,4 +5,5 @@
   #### Esercizi:
   - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_A.c
   - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_B.c
+  - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_C.c
 
