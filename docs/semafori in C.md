@@ -67,5 +67,8 @@ Per utilizzare i semafori con i thread pthread, è necessario includere le libre
 - `sem_destroy(sem_t *sem)`: Distrugge il semaforo.
 
 
+    fonte informazioni: chat.openai.com GPT 3.5
+
+
 
 
