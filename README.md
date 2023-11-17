@@ -17,4 +17,5 @@ Il materiale fornito **non** è il materiale ufficiale della mia università, mo
   - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_B.c
   - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_C.c
   - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_D.c
+  - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_E.c
 
