@@ -12,7 +12,6 @@
 #include <unistd.h>
 
 #define MAX_VALUE 5
-#define MIN_VALUE 0
 
 sem_t mySemaphore;
 int activeThreads;
