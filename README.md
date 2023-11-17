@@ -12,6 +12,7 @@ Il materiale fornito **non** è il materiale ufficiale della mia università, mo
 - Sincronizzazione dei processi tramite segnalazione (https://github.com/paolinucs/sistemi_operativi/blob/main/segnalazione.c)
   #### Documentazione:
   - Utilizzo di semafori in C (https://github.com/paolinucs/sistemi_operativi/blob/main/docs/semafori%20in%20C.md)
+  - Commento dell'esercizio E (https://github.com/paolinucs/sistemi_operativi/blob/main/docs/commento%20approfondito%20esercizio%20E.md)
   #### Esercizi:
   - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_A.c
   - https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_B.c
