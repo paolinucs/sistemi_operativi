@@ -1,7 +1,4 @@
 /**
- * @file es_E.c
- * @author Paolo Coletta
- * Obiettivo:
  * Creare un semaforo a conteggio che supporti un numero massimo di permessi e veda l'incremento e il decremento del contatore attraverso le operazioni wait e signal.
  * Suggerimento: Utilizza una variabile contatore e implementa le funzioni wait e signal per gestire l'incremento e il decremento del contatore rispettivamente.
  * Controlla i limiti massimi e minimi del contatore per evitare sovraccarichi o valori negativi.

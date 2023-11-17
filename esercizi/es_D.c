@@ -1,7 +1,4 @@
 /**
- * @file es_D.c
- * @author Paolo Coletta
- * 
  * Implementa una barriera utilizzando semafori. 
  * Hai un insieme di processi che devono raggiungere un punto comune prima di poter procedere.
  * Usa i semafori per garantire che i processi si blocchino e si sincronizzino fino a quando tutti non hanno raggiunto la barriera,

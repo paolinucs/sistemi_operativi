@@ -1,6 +1,4 @@
 /**
- * @file es_C.c
- * @author Paolo Coletta
  * Scrivi un programma in C che garantisce l'alternanza tra due thread, stampando "Ping" e "Pong" in ordine.
  */
 

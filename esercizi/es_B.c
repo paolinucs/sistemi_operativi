@@ -1,6 +1,4 @@
 /**
- * @file es_B.c
- * @author Paolo Coletta
  * Implementa un programma in C che simula il problema del produttore-consuatore utilizzando semafori per la sincronizzazione dei thread produttore
  * e consumatore
  */
