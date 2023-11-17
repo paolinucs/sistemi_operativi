@@ -2,7 +2,7 @@
 
 Link esercizio: https://github.com/paolinucs/sistemi_operativi/blob/main/esercizi/es_E.c
 
-Per comprendere bene il funzionamento dei semafori consiglio di consultare sia la documentazione presa da ChatGPT (https://github.com/paolinucs/sistemi_operativi/blob/main/docs/semafori%20in%20C.md) e il video YouTube di Get The Cookie relativo all'argomento.<br>
+Per comprendere bene il funzionamento dei semafori consiglio di consultare sia la documentazione scritta da ChatGPT (https://github.com/paolinucs/sistemi_operativi/blob/main/docs/semafori%20in%20C.md) e il video YouTube di Get The Cookie relativo all'argomento.<br>
 
 Questo esercizio l'ho fatto come introduzione ai **semafori contatori**. In breve, a differenza dei semafori binari (che ho utilizzato negli esercizi precedenti), i semafori contatori hanno un vero e proprio contatore interno che può essere incrementato o decrementato grazie alla `sem_wait` e `sem_post` (rispettivamente per decrementare e incrementare).
 
